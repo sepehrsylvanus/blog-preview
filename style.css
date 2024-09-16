@@ -84,6 +84,7 @@ footer {
   border-radius: 10px;
   width: 279px;
   height: 200px;
+  margin: 0 auto;
   @media screen and (min-width: 720px) {
     width: 336px;
   }
