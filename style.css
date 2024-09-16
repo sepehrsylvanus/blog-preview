@@ -88,3 +88,8 @@ footer {
     width: 336px;
   }
 }
+.title:hover {
+  color: var(--yellow-color);
+  transition: all 0.3s;
+  cursor: default;
+}
